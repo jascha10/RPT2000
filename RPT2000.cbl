@@ -1,6 +1,7 @@
       **************************************************************
       * AUTHOR:    Jacob Schmp
       * DATE:      02/18/2026
+      * Github:    https://github.com/jascha10/RPT2000.git
       * PURPOSE:   CIS352 Chapter 3 - Year-to-Date Sales Report
       **************************************************************
        IDENTIFICATION DIVISION.
